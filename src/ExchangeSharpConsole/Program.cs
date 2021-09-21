@@ -38,7 +38,8 @@ namespace ExchangeSharpConsole
 			typeof(WebSocketsPositionsOption),
 			typeof(WebSocketsTickersOption),
 			typeof(WebSocketsTradesOption),
-			typeof(WebSocketsCandlesOption)
+			typeof(WebSocketsCandlesOption),
+			typeof(WithdrawOption)
 		};
 
 		public Program()
